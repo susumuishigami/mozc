@@ -52,6 +52,7 @@
       '<(platform_data_dir)/dictionary07.txt',
       '<(platform_data_dir)/dictionary08.txt',
       '<(platform_data_dir)/dictionary09.txt',
+      '<(platform_data_dir)/dictionary10.txt',
       '<(platform_data_dir)/reading_correction.tsv',
       '<(mozc_oss_src_dir)/data/dictionary_manual/domain.txt',
       '<(mozc_oss_src_dir)/data/dictionary_manual/era.txt',

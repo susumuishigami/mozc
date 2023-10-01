@@ -69,6 +69,7 @@
           '<(mozc_oss_src_dir)/data/dictionary_oss/dictionary07.txt',
           '<(mozc_oss_src_dir)/data/dictionary_oss/dictionary08.txt',
           '<(mozc_oss_src_dir)/data/dictionary_oss/dictionary09.txt',
+          '<(mozc_oss_src_dir)/data/dictionary_oss/dictionary10.txt',
           '<(mozc_oss_src_dir)/data/dictionary_oss/suggestion_filter.txt',
         ],
         'test_data_subdir': 'data/dictionary_oss',

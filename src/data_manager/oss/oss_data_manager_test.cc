@@ -58,7 +58,7 @@ class OssDataManagerTest : public DataManagerTestBase {
                 {"dictionary00.txt", "dictionary01.txt", "dictionary02.txt",
                  "dictionary03.txt", "dictionary04.txt", "dictionary05.txt",
                  "dictionary06.txt", "dictionary07.txt", "dictionary08.txt",
-                 "dictionary09.txt"}),
+                 "dictionary09.txt", "dictionary10.txt"}),
             mozc::testing::GetSourceFilesInDirOrDie(
                 {MOZC_DICT_DIR_COMPONENTS, "dictionary_oss"},
                 {"suggestion_filter.txt"})) {}
